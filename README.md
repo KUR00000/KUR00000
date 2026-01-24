@@ -43,18 +43,6 @@
 
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUR00000&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=9400FF&text_color=FFFFFF&langs_count=8" />
 
-</div>
-
----
-
-## 📊 「 REIATSU_GRAPH.exe 」
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KUR00000&bg_color=0d0d0d&color=9400FF&line=FF00FF&point=00FFFF&area=true&area_color=9400FF&hide_border=true&custom_title=⟦%20霊圧%20REIATSU%20CONTRIBUTION%20MATRIX%20⟧" width="95%"/>
-
-</div>
-
 ---
 
 ## 「 _SNAKE.hunt 」
