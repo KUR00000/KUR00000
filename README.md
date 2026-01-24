@@ -1,138 +1,201 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KUR00000&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Cyberpunk Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5,3&height=200&section=header&text=K%20U%20R%20O&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=⟦%20ウェルカム%20⟧%20Welcome%20to%20my%20Digital%20Realm&descAlignY=75&descSize=18"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=524&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8E%AE+Gamer+%7C+Anime+Enthusiast;%F0%9F%92%BB+Code.+Create.+Innovate." alt="Typing SVG" /></a>
+<!-- Animated Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E3%80%8C+Developer+%2F%2F+Otaku+%2F%2F+Gamer+%E3%80%8D;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+SYSTEM+ONLINE+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=KUR00000&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-<a href="https://github.com/KUR00000?tab=followers"><img src="https://img.shields.io/github/followers/KUR00000?label=Followers&style=for-the-badge&color=blue" alt="Followers"/></a>
+<!-- Animated Gif Banner -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpxbXBrY3Q1amM0ZHNsOHRqY3BzYThjMzl2bXJjMW1rYzBkOXRnayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+
+<br/><br/>
+
+<!-- Glowing Stats Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=KUR00000&style=for-the-badge&color=FF006E&label=訪問者+/+VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/KUR00000?style=for-the-badge&color=00FFFF&labelColor=1a1a2e&label=フォロワー+/+FOLLOWERS)](https://github.com/KUR00000?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/KUR00000?style=for-the-badge&color=FFE66D&labelColor=1a1a2e&label=スター+/+STARS)](https://github.com/KUR00000?tab=stars)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<div align="center">
 
-```javascript
-const kuro = {
-    pronouns: "He" | "Him",
-    location: "🌏 Earth",
-    currentFocus: "Building awesome web experiences",
-    funFact: "I debug with console.log and I'm not ashamed 😎",
-    
-    passions: ["Coding", "Gaming", "Anime", "Open Source"],
-    
-    lifePhilosophy: "Turn coffee into code ☕ → 💻"
-};
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ██╗  ██╗██╗   ██╗██████╗  ██████╗      ██████╗  ██████╗  ██████╗    ║
+║  ██║ ██╔╝██║   ██║██╔══██╗██╔═████╗    ██╔═████╗██╔═████╗██╔═████╗   ║
+║  █████╔╝ ██║   ██║██████╔╝██║██╔██║    ██║██╔██║██║██╔██║██║██╔██║   ║
+║  ██╔═██╗ ██║   ██║██╔══██╗████╔╝██║    ████╔╝██║████╔╝██║████╔╝██║   ║
+║  ██║  ██╗╚██████╔╝██║  ██║╚██████╔╝    ╚██████╔╝╚██████╔╝╚██████╔╝   ║
+║  ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝      ╚═════╝  ╚═════╝  ╚═════╝    ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm learning **everything I can get my hands on**
-- 👯 Open to collaborate on **innovative ideas**
-- 💬 Ask me about **Web Dev, Anime, or Gaming**
-- ⚡ Fun fact: **I speak fluent JavaScript**
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 「 ABOUT.exe 」
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBxdWx4NHYyNWhtMnd6aXd4Z3lnZ2k2dWk2N2kyZXpjMGptaTZ0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"/>
+
+```typescript
+// ⟨ SYSTEM INITIALIZATION ⟩
+interface Developer {
+  name: string;
+  title: string;
+  skills: string[];
+  passions: string[];
+  currentQuest: string;
+}
+
+const KURO: Developer = {
+  name: "KUR00000",
+  title: "Full Stack Developer",
+  skills: ["TypeScript", "React", "Next.js", "Node.js"],
+  passions: ["Anime", "Gaming", "Open Source", "Coding"],
+  currentQuest: "Building the future, one commit at a time"
+};
+
+// STATUS: ▓▓▓▓▓▓▓▓▓▓ 100% OPERATIONAL
+```
+
+<br/>
+
+### ⚡ Quick Stats
+```yaml
+Level: ████████████████████ MAX
+Class: Code Ninja 🥷
+Guild: Open Source Warriors
+Status: Always Coding 💻
+Power: Unlimited Coffee ☕
+```
 
 <br clear="both"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> 「 TECH_STACK.sys 」
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⌁ 言語 // Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,java,html,css&theme=dark&perline=8" />
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+### ⌁ フレームワーク // Frameworks  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&theme=dark&perline=6" />
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⌁ ツール // Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,figma,postman&theme=dark&perline=8" />
+
+### ⌁ データベース // Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark&perline=4" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> 「 STATS.analysis 」
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KUR00000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=00FFFF&text_color=FFFFFF&ring_color=FF006E" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KUR00000&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FFE66D&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUR00000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&langs_count=10" />
+
+</div>
+
+---
+
+## 📊 「 ACTIVITY.log 」
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KUR00000&bg_color=0d1117&color=FF006E&line=00FFFF&point=FFE66D&area=true&area_color=FF006E&hide_border=true&custom_title=⟦%20CONTRIBUTION%20MATRIX%20⟧" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 「 ACHIEVEMENTS.unlock 」
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KUR00000&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
+
+</div>
+
+---
+
+## 🐍 「 CONTRIBUTION_SNAKE.exe 」
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KUR00000&show_icons=true&count_private=true&hide_border=true&title_color=A177FE&icon_color=A177FE&text_color=c9d1d9&bg_color=0d1117" alt="Kuro's GitHub Stats" /> 
-
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=KUR00000&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0d1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" alt="Kuro's Streak Stats"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
+
+---
+
+## 🎵 「 NOW_PLAYING.mp3 」
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUR00000&layout=compact&hide_border=true&title_color=A177FE&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&bar_color=FF006E&bar_color_cover=false" />
+
 </div>
+
+---
+
+## 📡 「 CONNECT.network 」
+
+<div align="center">
+
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/メール-Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-接続-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-フォロー-FFE66D?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://discord.gg/YOUR_DISCORD">
+  <img src="https://img.shields.io/badge/Discord-参加-7B68EE?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-フォロー-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## � 「 QUOTE.random 」
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20code%20is%20poetry%2C%20the%20bugs%20are%20plot%20twists&author=Anonymous%20Developer" />
 
 <br/>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUR00000&custom_title=Kuro's%20Contribution%20Graph&bg_color=0d1117&color=A177FE&line=A177FE&point=FFFFFF&area_color=A177FE&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
+### 🎌 Favorite Anime Quotes
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUR00000&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🎵 Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=A177FE" alt="Spotify Now Playing"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+> *"人は何かの犠牲なしに何も得ることはできない"*
+> 
+> *"One cannot gain anything without first giving something in return"*
+> 
+> — **Edward Elric** • Fullmetal Alchemist
 
 </div>
 
@@ -140,33 +203,39 @@ const kuro = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
+## 💖 「 SUPPORT.donate 」
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Support My Work
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-<a href="https://ko-fi.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-サポート-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+<a href="https://ko-fi.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Ko--Fi-応援-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-</div>
 
-<div align="center">
-  
-**✨ Thanks for visiting! Have a great day! ✨**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=120&section=footer&animation=fadeIn"/>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
+<br/>
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║       ⟦ ありがとうございます // THANK YOU FOR VISITING ⟧                  ║
+║                                                                           ║
+║                    "See you space cowboy..." 🚀                           ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NhemNxdWpzM2s1MXNiaHZqNXB0OGZtZHRnbnk5dmV5aGxqY2ZxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
+
+**「 Made with 💜 and mass amounts of ☕ 」**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
