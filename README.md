@@ -8,8 +8,8 @@
 
 <!-- Animated Status Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=KUR00000&style=for-the-badge&color=9400FF&label=訪問者+VISITORS)
-[![GitHub followers](https://img.shields.io/github/followers/KUR00000?style=for-the-badge&color=FF00FF&labelColor=0D0D0D&label=フォロワー)](https://github.com/KUR00000?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/KUR00000?style=for-the-badge&color=00FFFF&labelColor=0D0D0D&label=スター)](https://github.com/KUR00000?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/KUR00000?style=for-the-badge&color=FF00FF&labelColor=0D0D0D&label=フォロワー+Followers)](https://github.com/KUR00000?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/KUR00000?style=for-the-badge&color=00FFFF&labelColor=0D0D0D&label=スター+stars)](https://github.com/KUR00000?tab=stars)
 
 </div>
 
