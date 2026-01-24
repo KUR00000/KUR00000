@@ -144,22 +144,10 @@
 ║                                                                                ║
 ║      "Those who stand at the top ARE ALWAYS ALONE."                            ║
 ║                                                                                ║
-║                                    — 藍染 惣右介 / LORD AIZEN                   ║
+║                                    — 惣右介 / AIZEN                            ║
 ║                                                                                ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-## 🎵 「 HUECO_MUNDO_RADIO.mp3 」
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=9400FF&bar_color_cover=false" />
-
-</div>
 
 ---
 
@@ -209,10 +197,6 @@
 
 <!-- Epic Anime Collage Footer -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRlMmF6dmZ5OGlzb2VjbXQ2MHRncGJhMm1sNm0xcDdzZHFkYXE3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k6Vbs4FyOEbZK/giphy.gif" width="180"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2UzN2xncnR4cXE4eHFnNWl4dnF0YjFicDV3dnVhcmtvem5hdmdjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12Nv4CQrqfAqHe/giphy.gif" width="180"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1NWh5Y2ZzcGZraXRsNDQ2NjI1cHNqa3c3Z2xwYjJqd2RidnkzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5tujcyMQAwj8k/giphy.gif" width="180"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9sbjN0bnNtNjB3YmswdWdwNmVteXR4cjF4aTYzaGVqcmM2eWx0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jpbnkneOMU9UeXXCfd/giphy.gif" width="180"/>
-
 </div>
 
 ---
@@ -222,22 +206,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24,30,1&height=150&section=footer&animation=twinkling"/>
 
 </div>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                   ║
-║               "さよなら、死神。君の敗北は最初から決まっていた。"                      ║
-║                                                                                   ║
-║               "Farewell, Shinigami. Your defeat was decided from the start."      ║
-║                                                                                   ║
-║                                    ⚔️ AIZEN ⚔️                                    ║
-║                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjcxcjdiYnMzN2Njbm9pYjgybDliemR5YmJncjV4bHM3c3gxbjM2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOzlNFvosVVrq/giphy.gif" width="80">
 
