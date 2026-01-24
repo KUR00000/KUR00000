@@ -1,360 +1,398 @@
 <div align="center">
 
-<!-- Epic Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,24,30,1&height=220&section=header&text=黒%20/%20KURO&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=50&desc=⦗%20全ては計画通り%20⦘%20Everything%20is%20going%20according%20to%20plan&descAlignY=72&descSize=16"/>
+<!-- ULTRA CYBER ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:06B6D4&height=300&section=header&text=𝕶%20𝖀%20𝕽%20𝕺&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⟦%20黒%20⟧%20DIGITAL%20SHINIGAMI%20⟦%20死神%20⟧&descAlignY=65&descSize=20&stroke=00FFFF&strokeWidth=2"/>
 
-<!-- Glitch Animation Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=9400FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+SYSTEM+INITIALIZING+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E3%80%8C+Developer+%E2%94%82+Otaku+%E2%94%82+Gamer+%E3%80%8D;%E6%AD%BB%E7%A5%9E%E4%BB%A3%E8%A1%8C+%2F%2F+SHINIGAMI+DEVELOPER" alt="Typing SVG" /></a>
+<!-- MATRIX TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=150&lines=%3E+INITIALIZING+SOUL+SOCIETY+MAINFRAME...;%3E+REIATSU+LEVELS%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+OVER+9000;%3E+BANKAI%3A+%E7%84%A1%E9%99%90%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89+%2F%2F+UNLIMITED+CODE;%3E+STATUS%3A+%E8%A8%88%E7%94%BB%E9%80%9A%E3%82%8A+%2F%2F+JUST+AS+PLANNED" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Anime Aesthetic Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNyaWt5OWZpdHBvaDlhdm52Y3dob3Q1MmVxaGN0Z2R4djZqdHpiaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKSxdQJIoiRXHl6/giphy.gif" width="200"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNyOG5wenB2b2t3c25wcHpmcHlsMWFidXNibmVzZmM0MWJ5Mnh1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IykG0AM7911MrCM/giphy.gif" width="200"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVhZmd3NjN2NW4xMHpjNWM5b3NnamZoZWgyNncyamc2eHJkYmlxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BVStb13YiR5Qs/giphy.gif" width="200"/>
+<!-- NEON HOLOGRAPHIC BADGES -->
+<img src="https://img.shields.io/badge/動作状況-ONLINE-00FF41?style=for-the-badge&logo=circle&logoColor=00FF41&labelColor=000000&color=00FF41"/>
+<img src="https://img.shields.io/badge/脅威レベル-MAXIMUM-FF0000?style=for-the-badge&logo=warning&logoColor=FF0000&labelColor=000000&color=FF0000"/>
+<img src="https://img.shields.io/badge/CLASS-神-FFD700?style=for-the-badge&logo=crown&logoColor=FFD700&labelColor=000000&color=FFD700"/>
 
 <br/><br/>
 
-<!-- Animated Status Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=KUR00000&style=for-the-badge&color=9400FF&label=訪問者+VISITORS)
-[![GitHub followers](https://img.shields.io/github/followers/KUR00000?style=for-the-badge&color=FF00FF&labelColor=0D0D0D&label=フォロワー)](https://github.com/KUR00000?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/KUR00000?style=for-the-badge&color=00FFFF&labelColor=0D0D0D&label=スター)](https://github.com/KUR00000?tab=stars)
+<!-- EPIC ANIME GIF STRIP -->
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="220"/>
+<img src="https://i.pinimg.com/originals/07/44/39/074439f946cd16dd03e0f6ae6db342ea.gif" width="220"/>
+<img src="https://i.pinimg.com/originals/96/4a/f5/964af5e5e9ef6a12c28ee0c8e0c1fc46.gif" width="220"/>
+
+<br/><br/>
+
+<!-- PROFILE STATS WITH GLOW -->
+![Profile Views](https://komarev.com/ghpvc/?username=KUR00000&style=for-the-badge&color=blueviolet&label=👁️+WATCHERS)
+[![GitHub followers](https://img.shields.io/github/followers/KUR00000?style=for-the-badge&color=ff00ff&labelColor=000000&label=🔮+FOLLOWERS)](https://github.com/KUR00000?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/KUR00000?style=for-the-badge&color=00ffff&labelColor=000000&label=⭐+STARS)](https://github.com/KUR00000?tab=stars)
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<!-- Aizen Themed Quote Box -->
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║     "恐怖とは、死を前にして初めて自覚するものだ"                                   ║
-║                                                                               ║
-║     "Fear is not something you should feel at the moment of death.            ║
-║      It is something you should feel BEFORE you even begin to fight."         ║
-║                                                                               ║
-║                                    — 藍染 惣右介 / AIZEN SŌSUKE                 ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+<!-- EPIC AIZEN QUOTE BOX WITH GLOW EFFECT -->
+```diff
+@@                                                                              @@
++  ╔══════════════════════════════════════════════════════════════════════════╗
++  ║                                                                          ║
++  ║     "恐怖は死の瞬間ではなく、戦いを始める前に感じるべきものだ"                 ║
++  ║                                                                          ║
++  ║       "FEAR IS SOMETHING YOU FEEL NOT AT THE MOMENT OF DEATH,            ║
++  ║        BUT BEFORE YOU EVEN BEGIN TO FIGHT."                              ║
++  ║                                                                          ║
++  ║                           — 🗡️ 藍染 惣右介 / AIZEN SŌSUKE 🗡️              ║
++  ║                                                                          ║
++  ╚══════════════════════════════════════════════════════════════════════════╝
+@@                                                                              @@
 ```
 
 </div>
+
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<!-- Bleach Themed ASCII -->
+<!-- CYBER ASCII ART LOGO -->
 ```
-    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣿⣿⣿⣿⣿⣿⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⣠⣾⣿⠟⠋⠁⠀⠀⠀⠈⠙⠻⣿⣿⡿⠟⠋⠀⠀⠀⠙⠻⣿⣦⠀⠀⠀⠀
-    ⠀⠀⠀⣴⣿⡟⠁⠀⢀⣤⣶⣿⣷⣤⠀⠀⠈⠁⠀⠀⣠⣾⣿⣷⣦⡀⠈⢿⣷⡀⠀⠀
-    ⠀⠀⣼⣿⡏⠀⠀⢠⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⠀⠀⢻⣷⠀⠀
-    ▀▄▀▄▀▄  K  U  R  O  0  0  0  0  0  ▄▀▄▀▄▀
-    ⠀⠀⣿⣿⡇⠀⠀⢸⣿⣿⣿⣿⣿⣿⡇⠀⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⠀
-    ⠀⠀⢻⣿⣇⠀⠀⠘⣿⣿⣿⣿⣿⡿⠁⠀⠸⣿⠃⠀⢿⣿⣿⣿⣿⡟⠀⠀⣸⣿⡏⠀
-    ⠀⠀⠈⢿⣿⣆⠀⠀⠙⠿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠈⠻⣿⡿⠋⠀⠀⣰⣿⡿⠀⠀
-    ⠀⠀⠀⠈⠻⣿⣷⣤⣀⠀⠀⠀⠀⠀⠀⣀⣀⣀⠀⠀⠀⠀⠀⠀⣀⣤⣾⣿⠟⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠈⠛⠿⣿⣿⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠛⠿⠿⠿⠿⠿⠿⠿⠿⠿⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⡿⠛⠉⠉⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⢀⣤⣤⡀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀
+   ██╗  ██╗██╗   ██╗██████╗  ██████╗  ██████╗  ██████╗  ██████╗  ██████╗ 
+   ██║ ██╔╝██║   ██║██╔══██╗██╔═══██╗██╔═══██╗██╔═══██╗██╔═══██╗██╔═══██╗
+   █████╔╝ ██║   ██║██████╔╝██║   ██║██║   ██║██║   ██║██║   ██║██║   ██║
+   ██╔═██╗ ██║   ██║██╔══██╗██║   ██║██║   ██║██║   ██║██║   ██║██║   ██║
+   ██║  ██╗╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝
+   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝ 
+⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠈⠛⠛⠁⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀
+⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠿⠿⠿⠿⠿⠿⠿⠛⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpyc2k5dXI2bjM3bjM3MXozdWFhdDJ4NmQ0NnVkZXg3YnBxMTVzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13borq7Zo2kulO/giphy.gif" width="45"> 「 PROFILE.init 」
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> 「 SYSTEM.profile 」
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBxdWx4NHYyNWhtMnd6aXd4Z3lnZ2k2dWk2N2kyZXpjMGptaTZ0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"/>
+<img align="right" width="400" src="https://i.pinimg.com/originals/e6/cc/6d/e6cc6d4abcd361e281e22ca3346c00a2.gif"/>
 
 ```typescript
-// ⟨ SOUL SOCIETY: DEVELOPER REGISTRY ⟩
+// ⚡ SOUL SOCIETY DATABASE ⚡
+// ACCESS LEVEL: 🔴 CAPTAIN CLASS
 
-interface Shinigami {
-  codename: string;
-  rank: string;
-  bankai: string;
-  abilities: string[];
-  status: string;
+interface DigitalShinigami {
+  designation: string;
+  classification: "CAPTAIN" | "LIEUTENANT" | "SEATED";
+  divisionName: string;
+  zanpakuto: {
+    shikai: string;
+    bankai: string;
+  };
+  combatAbilities: string[];
+  threatLevel: number;
 }
 
-const KURO: Shinigami = {
-  codename: "KUR00000",
-  rank: "Captain-Class Developer",
-  bankai: "Unlimited Code Works",
-  abilities: [
-    "TypeScript Mastery",
-    "React Reiatsu",
-    "Next.js Shunpo",
-    "Node.js Kidō"
+const KURO: DigitalShinigami = {
+  designation: "KUR00000",
+  classification: "CAPTAIN",
+  divisionName: "Division of Infinite Code",
+  zanpakuto: {
+    shikai: "Scatter, JavaScript",
+    bankai: "無限のコード // MUGEN NO CODE"
+  },
+  combatAbilities: [
+    "TypeScript Kido",
+    "React Shunpo",  
+    "Next.js Hoho",
+    "Node.js Zanjutsu"
   ],
-  status: "BANKAI ACTIVATED"
+  threatLevel: Infinity
 };
 
-// 霊圧 REIATSU: ▓▓▓▓▓▓▓▓▓▓ MAXIMUM
+console.log("⚔️ BANKAI ACTIVATED ⚔️");
+// OUTPUT: 霊圧 CRUSHING ALL BUGS...
 ```
 
 <br/>
 
-### ⚔️ Zanpakutō Stats
-```yaml
-名前 Name     : Kuro
-称号 Title    : Code Shinigami 死神
-斬魄刀 Weapon : Keyboard & Coffee
-力 Power      : ████████████████████ ∞
-精神 Spirit   : "Crush all bugs without mercy"
-状態 Status   : Writing legendary code...
+### 📊 Power Levels
+```css
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  REIATSU   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ∞      ┃
+┃  SPEED     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%   ┃  
+┃  INTELLECT ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%   ┃
+┃  STAMINA   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%   ┃
+┃  COFFEE    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ☕☕☕  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+                   [ THREAT LEVEL: ∞ ]
 ```
 
 <br clear="both"/>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<!-- More Anime Aesthetic GIFs -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2sybm1laWYyOWt6N3B5bTh5aHM0OWw2b3Vqa3V3cmJ6cTB0MWdjbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="250"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg2c2NpazRhNjJ6OWJmdnlmN3hsbXRuNDZ2OHFocnNlN25jd2hpYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tjOHMxbzRuYnUwYnZxcGN0Ynd4cXZuNWZxM3M3dWM2YnNneXNkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10kABVanhwykJW/giphy.gif" width="250"/>
+<!-- CENTERED ANIME AESTHETIC -->
+<img src="https://i.pinimg.com/originals/af/90/6a/af906a21cf9b58b0eb1bc793701a28b0.gif" width="280"/>
+<img src="https://i.pinimg.com/originals/2c/7a/d9/2c7ad9284f7e6d6bfc04b1d0a8e4c7d5.gif" width="280"/>
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171571.gif" width="280"/>
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35"> 「 ARSENAL.weapons 」
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3jrec6t9f49&rid=giphy.gif" width="28"> 「 ARSENAL.exe 」
 
 <div align="center">
 
-### ⌁ 言語 // Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,rust,go,java&theme=dark&perline=8" />
+### ⚔️ Primary Weapons // 主武器
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000"/></a>
 
-### ⌁ フレームワーク // Frameworks  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,vue,svelte&theme=dark&perline=8" />
+### 🛡️ Combat Frameworks // 戦闘フレームワーク
+<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=000000"/></a>
 
-### ⌁ ツール // Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,aws,firebase&theme=dark&perline=8" />
-
-### ⌁ データベース // Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase&theme=dark&perline=6" />
+### 🏴‍☠️ Stealth Tools // ツール
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000"/></a>
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<!-- Another Aizen Quote -->
+<!-- SECOND AIZEN QUOTE -->
+```ruby
+#  ╔═══════════════════════════════════════════════════════════════════════════╗
+#  ║                                                                           ║
+#  ║    "全ては計画通り"                                                        ║
+#  ║                                                                           ║
+#  ║    "EVERYTHING IS GOING ACCORDING TO KEIKAKU."                            ║
+#  ║                                                                           ║
+#  ║    (Translator's note: Keikaku means plan)                                ║
+#  ║                                                                           ║
+#  ║                          — LORD AIZEN 藍染様                              ║
+#  ║                                                                           ║
+#  ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                      ┃
-┃  "君が僕を信じなくても、僕は君の敵ではない。                            ┃
-┃   君の敵は、君自身の弱さだ。"                                          ┃
-┃                                                                      ┃
-┃  "Even if you don't believe in me, I am not your enemy.              ┃
-┃   Your enemy is YOUR OWN WEAKNESS."                                  ┃
-┃                                                                      ┃
-┃                              — 藍染 惣右介 / AIZEN SŌSUKE             ┃
-┃                                                                      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB5Mzk5MnAzODh4N3J4bnFlNWluYW1uMHJwaHVtZ2w5bWR0ZmZsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"> 「 BATTLE_STATS.analyze 」
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 「 BATTLE_RECORDS.db 」
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KUR00000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=9400FF&icon_color=FF00FF&text_color=FFFFFF&ring_color=9400FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KUR00000&theme=tokyonight&hide_border=true&background=0D0D0D&ring=9400FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=9400FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+<!-- GITHUB STATS WITH CUSTOM THEME -->
+<a href="https://github.com/KUR00000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KUR00000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&ring_color=FF00FF&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=KUR00000&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=FFDD00&currStreakLabel=00FFFF&sideLabels=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
+</a>
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUR00000&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=9400FF&text_color=FFFFFF&langs_count=8" />
+<!-- LANGUAGE STATS -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUR00000&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 「 REIATSU_GRAPH.exe 」
+## 📈 「 REIATSU_MATRIX.visualize 」
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KUR00000&bg_color=0d0d0d&color=9400FF&line=FF00FF&point=00FFFF&area=true&area_color=9400FF&hide_border=true&custom_title=⟦%20霊圧%20REIATSU%20CONTRIBUTION%20MATRIX%20⟧" width="95%"/>
+<a href="https://github.com/KUR00000">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUR00000&bg_color=0d1117&color=FF00FF&line=00FFFF&point=FFDD00&area=true&area_color=8B5CF6&hide_border=true&custom_title=⚡%20SPIRITUAL%20PRESSURE%20CONTRIBUTION%20MATRIX%20⚡" width="98%"/>
+</a>
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 「 HOLLOW_TROPHIES.collect 」
+## 🏆 「 HOLLOW_HUNT.trophies 」
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KUR00000&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+<a href="https://github.com/KUR00000">
+  <img src="https://github-profile-trophy.vercel.app/?username=KUR00000&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+</a>
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 「 MENOS_SNAKE.hunt 」
+## 🐍 「 MENOS_GRANDE.consume 」
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<!-- Anime Aesthetic Divider -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjcxZHQzcHlpenVxZnpmbjVreXZvamV0NWZ4eGI5M2g1eDl2OG8wYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRzozg4TCBXv6QU/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpxNnR2YjNhcmt5a3l0a2x1NWhkamE4YTRmOW82NW95ZDdxZGF4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2zVr6cu95nF6O4/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZtbmgyeGg3c2pvZ2tnYnhubW15cDE0aDl3ZmxjcnY0bTVoYjZtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IFrHkIglEOg8Ba/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU4dHB1ZXpqdDNubWxneGs5bmlwN2N6cWd1aDYxM2NuYndyaGJ5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="150"/>
+<!-- MORE ANIME VISUALS -->
+<img src="https://i.pinimg.com/originals/d7/68/83/d76883ddb5e16d1b5eb97c8f41d4c5be.gif" width="200"/>
+<img src="https://i.pinimg.com/originals/7f/e4/92/7fe492f14cd1b299dd19d08e32826dcb.gif" width="200"/>
+<img src="https://i.pinimg.com/originals/b5/0b/13/b50b13e6ead0a4f3084ae5b91c35c9bb.gif" width="200"/>
+<img src="https://i.pinimg.com/originals/5a/98/16/5a9816af82ef69a2eed7e2c9f3d9f6f9.gif" width="200"/>
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## � 「 AIZEN_PHILOSOPHY.wisdom 」
+## 🎌 「 AIZEN_DOCTRINE.philosophy 」
 
-<!-- Main Aizen Quote with styling -->
+<!-- ULTIMATE AIZEN QUOTES -->
 ```
-╔════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                ║
-║      "全ては計画通り。"                                                         ║
-║                                                                                ║
-║      "EVERYTHING IS GOING ACCORDING TO PLAN."                                  ║
-║                                                                                ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                ║
-║      "憧れは理解から最も遠い感情だよ。"                                           ║
-║                                                                                ║
-║      "Admiration is the emotion FURTHEST from understanding."                  ║
-║                                                                                ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                ║
-║      "君は強い。だが、私が選んだものではない。"                                    ║
-║                                                                                ║
-║      "You are strong. But you are NOT the one I chose."                        ║
-║                                                                                ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                ║
-║      "頂点に立つ者は、孤独である。"                                              ║
-║                                                                                ║
-║      "Those who stand at the top ARE ALWAYS ALONE."                            ║
-║                                                                                ║
-║                                    — 藍染 惣右介 / LORD AIZEN                   ║
-║                                                                                ║
-╚════════════════════════════════════════════════════════════════════════════════╝
+╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+│                                                                               │
+│    ⚔️  "憧れは理解から最も遠い感情だよ"                                         │
+│                                                                               │
+│        "ADMIRATION IS THE EMOTION FURTHEST FROM UNDERSTANDING."               │
+│                                                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│                                                                               │
+│    ⚔️  "頂点に立つ者は、孤独である"                                             │
+│                                                                               │
+│        "THOSE WHO STAND AT THE TOP ARE ALWAYS ALONE."                         │
+│                                                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│                                                                               │
+│    ⚔️  "私が天に立つ"                                                          │
+│                                                                               │
+│        "I WILL STAND IN THE HEAVENS."                                         │
+│                                                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│                                                                               │
+│    ⚔️  "君は強い。だが、私が選んだものではない"                                   │
+│                                                                               │
+│        "YOU ARE STRONG. BUT YOU ARE NOT THE ONE I CHOSE."                     │
+│                                                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│                                                                               │
+│    ⚔️  "勝者とは、世界がどう動くかを決める者のことだ"                              │
+│                                                                               │
+│        "WINNERS DECIDE HOW THE WORLD MOVES."                                  │
+│                                                                               │
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+
+                              👑 LORD AIZEN 藍染 惣右介 👑
 ```
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎵 「 HUECO_MUNDO_RADIO.mp3 」
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=9400FF&bar_color_cover=false" />
-
-</div>
-
----
-
-## 📡 「 SOUL_NETWORK.connect 」
+## 📡 「 SENKAIMON.connect 」
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/メール-Email-9400FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-接続-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D"/>
-</a>
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-フォロー-00FFFF?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0D0D"/>
-</a>
-<a href="https://discord.gg/YOUR_DISCORD">
-  <img src="https://img.shields.io/badge/Discord-参加-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D"/>
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-フォロー-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D0D"/>
-</a>
+<!-- GLOWING SOCIAL BUTTONS -->
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://discord.gg/YOUR_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💎 「 HOGYOKU.support 」
 
 <div align="center">
 
-## 💖 「 HOGYOKU_SUPPORT.power 」
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-崩玉-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-<a href="https://ko-fi.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Ko--Fi-応援-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-</a>
-<a href="https://patreon.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Patreon-支援-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/>
-</a>
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="https://ko-fi.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<a href="https://patreon.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 
 </div>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<!-- Epic Anime Collage Footer -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRlMmF6dmZ5OGlzb2VjbXQ2MHRncGJhMm1sNm0xcDdzZHFkYXE3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k6Vbs4FyOEbZK/giphy.gif" width="180"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2UzN2xncnR4cXE4eHFnNWl4dnF0YjFicDV3dnVhcmtvem5hdmdjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12Nv4CQrqfAqHe/giphy.gif" width="180"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1NWh5Y2ZzcGZraXRsNDQ2NjI1cHNqa3c3Z2xwYjJqd2RidnkzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5tujcyMQAwj8k/giphy.gif" width="180"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9sbjN0bnNtNjB3YmswdWdwNmVteXR4cjF4aTYzaGVqcmM2eWx0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jpbnkneOMU9UeXXCfd/giphy.gif" width="180"/>
+<!-- FINAL ANIME ROW -->
+<img src="https://i.pinimg.com/originals/10/10/b4/1010b444f2f6925c9f5be3b3c2d41171.gif" width="250"/>
+<img src="https://i.pinimg.com/originals/c3/af/72/c3af726bbc1c10a27fd58d3f90aed258.gif" width="250"/>
+<img src="https://i.pinimg.com/originals/ea/47/c2/ea47c2b93c6f1b9746a0497f7d4ae62b.gif" width="250"/>
 
 </div>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24,30,1&height=150&section=footer&animation=twinkling"/>
-
-</div>
+<!-- EPIC FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=200&section=footer&animation=twinkling"/>
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                   ║
-║               "さよなら、死神。君の敗北は最初から決まっていた。"                      ║
-║                                                                                   ║
-║               "Farewell, Shinigami. Your defeat was decided from the start."      ║
-║                                                                                   ║
-║                                    ⚔️ AIZEN ⚔️                                    ║
-║                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                       ║
+║           "さよなら、死神。君の敗北は最初から決まっていた。"                              ║
+║                                                                                       ║
+║           "FAREWELL, SHINIGAMI. YOUR DEFEAT WAS DECIDED FROM THE START."              ║
+║                                                                                       ║
+║                                      ⚔️ 藍染 惣右介 ⚔️                                 ║
+║                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjcxcjdiYnMzN2Njbm9pYjgybDliemR5YmJncjV4bHM3c3gxbjM2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOzlNFvosVVrq/giphy.gif" width="80">
+<img src="https://i.pinimg.com/originals/4c/3b/c8/4c3bc8db05f9e4fc53c2e8e97e5a0e10.gif" width="100">
 
-**「 計画通り // KEIKAKU DŌRI // JUST AS PLANNED 」**
+### 「 計画通り 」 JUST AS PLANNED 「 全ては計画通り 」
 
 <br/>
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+realm...;%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99;Until+we+meet+again+in+Hueco+Mundo...;%E8%99%9A%E5%9C%88%E3%81%A7%E3%81%BE%E3%81%9F%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86" alt="Typing SVG" />
+
 </div>
+
 
