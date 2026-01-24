@@ -72,54 +72,24 @@
 
 <div align="center">
 
-<!-- Anime Aesthetic Divider -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjcxZHQzcHlpenVxZnpmbjVreXZvamV0NWZ4eGI5M2g1eDl2OG8wYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRzozg4TCBXv6QU/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpxNnR2YjNhcmt5a3l0a2x1NWhkamE4YTRmOW82NW95ZDdxZGF4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2zVr6cu95nF6O4/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZtbmgyeGg3c2pvZ2tnYnhubW15cDE0aDl3ZmxjcnY0bTVoYjZtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IFrHkIglEOg8Ba/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU4dHB1ZXpqdDNubWxneGs5bmlwN2N6cWd1aDYxM2NuYndyaGJ5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="150"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## � 「 AIZEN_PHILOSOPHY.wisdom 」
 
 <!-- Main Aizen Quote with styling -->
 ```
 ╔════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                ║
-║      "全ては計画通り。"                                                         ║
-║                                                                                ║
-║      "EVERYTHING IS GOING ACCORDING TO PLAN."                                  ║
-║                                                                                ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                ║
-║      "憧れは理解から最も遠い感情だよ。"                                           ║
-║                                                                                ║
-║      "Admiration is the emotion FURTHEST from understanding."                  ║
-║                                                                                ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                ║
-║      "君は強い。だが、私が選んだものではない。"                                    ║
-║                                                                                ║
-║      "You are strong. But you are NOT the one I chose."                        ║
-║                                                                                ║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                ║
-║      "頂点に立つ者は、孤独である。"                                              ║
+║      "頂点に立つ者は、孤独である。"                                                 ║
 ║                                                                                ║
 ║      "Those who stand at the top ARE ALWAYS ALONE."                            ║
 ║                                                                                ║
-║                                    — 惣右介 / AIZEN                            ║
+║                                    — 惣右介 / AIZEN                             ║
 ║                                                                                ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 📡 「 SOUL_NETWORK.connect 」
+## 「 connect 」
 
 <div align="center">
 
@@ -144,8 +114,6 @@
 ---
 
 <div align="center">
-
-## 💖 「 HOGYOKU_SUPPORT.power 」
 
 <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-崩玉-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
