@@ -9,14 +9,7 @@
 <br/>
 
 <!-- Anime Aesthetic Banner -->
-<div align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGEzbW51bGNjYThyajE3ZDYzZWluZnByMDBsZzNpM3lseDUwazdmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4LrRoasgxyDLj4fXFe/giphy.gif"
-    width="700"
-    height="100"
-  />
-</div>
-
+<img src="https://pin.it/5ax8U2i4a" width="200"/>
 
 <br/><br/>
 
@@ -362,5 +355,4 @@ const KURO: Shinigami = {
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
 
