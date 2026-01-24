@@ -6,15 +6,6 @@
 <!-- Glitch Animation Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=9400FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=%E3%80%8C+Developer+%E2%94%82+Otaku+%E2%94%82+Music+%E3%80%8D;%E6%AD%BB%E7%A5%9E%E4%BB%A3%E8%A1%8C+%2F%2F+SHINIGAMI+DEVELOPER" alt="Typing SVG" /></a>
 
-<br/>
-
-<!-- Anime Aesthetic Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNyaWt5OWZpdHBvaDlhdm52Y3dob3Q1MmVxaGN0Z2R4djZqdHpiaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKSxdQJIoiRXHl6/giphy.gif" width="200"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNyOG5wenB2b2t3c25wcHpmcHlsMWFidXNibmVzZmM0MWJ5Mnh1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IykG0AM7911MrCM/giphy.gif" width="200"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVhZmd3NjN2NW4xMHpjNWM5b3NnamZoZWgyNncyamc2eHJkYmlxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BVStb13YiR5Qs/giphy.gif" width="200"/>
-
-<br/><br/>
-
 <!-- Animated Status Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=KUR00000&style=for-the-badge&color=9400FF&label=訪問者+VISITORS)
 [![GitHub followers](https://img.shields.io/github/followers/KUR00000?style=for-the-badge&color=FF00FF&labelColor=0D0D0D&label=フォロワー)](https://github.com/KUR00000?tab=followers)
