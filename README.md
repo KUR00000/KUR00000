@@ -9,7 +9,14 @@
 <br/>
 
 <!-- Anime Aesthetic Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGEzbW51bGNjYThyajE3ZDYzZWluZnByMDBsZzNpM3lseDUwazdmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4LrRoasgxyDLj4fXFe/giphy.gif" hight="100" width="700"/>
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGEzbW51bGNjYThyajE3ZDYzZWluZnByMDBsZzNpM3lseDUwazdmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4LrRoasgxyDLj4fXFe/giphy.gif"
+    width="700"
+    height="100"
+  />
+</div>
+
 
 <br/><br/>
 
