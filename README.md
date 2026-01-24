@@ -72,8 +72,6 @@
 
 <div align="center">
 
-## � 「 AIZEN_PHILOSOPHY.wisdom 」
-
 <!-- Main Aizen Quote with styling -->
 ```
 ╔════════════════════════════════════════════════════════════════════════════════╗
@@ -111,8 +109,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
@@ -127,21 +123,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<!-- Epic Anime Collage Footer -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRlMmF6dmZ5OGlzb2VjbXQ2MHRncGJhMm1sNm0xcDdzZHFkYXE3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k6Vbs4FyOEbZK/giphy.gif" width="180"/>
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24,30,1&height=150&section=footer&animation=twinkling"/>
-
-</div>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjcxcjdiYnMzN2Njbm9pYjgybDliemR5YmJncjV4bHM3c3gxbjM2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOzlNFvosVVrq/giphy.gif" width="80">
 
