@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,24,30,1&height=220&section=header&text=黒%20/%20KURO&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=50&desc=⦗%20全ては計画通り%20⦘%20Everything%20is%20going%20according%20to%20plan&descAlignY=72&descSize=16"/>
 
 <!-- Glitch Animation Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=9400FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+SYSTEM+INITIALIZING+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E6%AD%BB%E7%A5%9E%E4%BB%A3%E8%A1%8C+%2F%2F+SHINIGAMI+DEVELOPER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=9400FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+SYSTEM+INITIALIZING+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E3%80%8C+Developer+%E2%94%82+Otaku+%E2%94%82+Gamer+%E3%80%8D;%E6%AD%BB%E7%A5%9E%E4%BB%A3%E8%A1%8C+%2F%2F+SHINIGAMI+DEVELOPER" alt="Typing SVG" /></a>
 
 <br/>
 
