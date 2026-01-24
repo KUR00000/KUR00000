@@ -33,25 +33,6 @@
 
 ---
 
-<div align="center">
-
-<!-- Another Aizen Quote -->
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                      ┃
-┃  "君が僕を信じなくても、僕は君の敵ではない。                            ┃
-┃   君の敵は、君自身の弱さだ。"                                          ┃
-┃                                                                      ┃
-┃  "Even if you don't believe in me, I am not your enemy.              ┃
-┃   Your enemy is YOUR OWN WEAKNESS."                                  ┃
-┃                                                                      ┃
-┃                              — 藍染 惣右介 / AIZEN SŌSUKE             ┃
-┃                                                                      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB5Mzk5MnAzODh4N3J4bnFlNWluYW1uMHJwaHVtZ2w5bWR0ZmZsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"> 「 BATTLE_STATS.analyze 」
