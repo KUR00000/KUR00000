@@ -30,9 +30,6 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase&theme=dark&perline=6" />
 
 </div>
-
----
-
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB5Mzk5MnAzODh4N3J4bnFlNWluYW1uMHJwaHVtZ2w5bWR0ZmZsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"> 「 BATTLE_STATS.analyze 」
@@ -60,17 +57,7 @@
 
 ---
 
-## 🏆 「 HOLLOW_TROPHIES.collect 」
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KUR00000&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
-
-</div>
-
----
-
-## 🐍 「 MENOS_SNAKE.hunt 」
+## 「 MENOS_SNAKE.hunt 」
 
 <div align="center">
   
