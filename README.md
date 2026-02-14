@@ -32,17 +32,7 @@
 </div>
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB5Mzk5MnAzODh4N3J4bnFlNWluYW1uMHJwaHVtZ2w5bWR0ZmZsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"> 「 BATTLE_STATS.analyze 」
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KUR00000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=9400FF&icon_color=FF00FF&text_color=FFFFFF&ring_color=9400FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KUR00000&theme=tokyonight&hide_border=true&background=0D0D0D&ring=9400FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=9400FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUR00000&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=9400FF&text_color=FFFFFF&langs_count=8" />
-
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB5Mzk5MnAzODh4N3J4bnFlNWluYW1uMHJwaHVtZ2w5bWR0ZmZsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"> 「 
 ---
 
 ## 「 _SNAKE.hunt 」
