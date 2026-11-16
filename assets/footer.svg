@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title">
+  <title id="title">Just as planned</title>
+  <defs>
+    <linearGradient id="wave" x1="0" x2="1">
+      <stop stop-color="#9400ff"/>
+      <stop offset="1" stop-color="#00ffff"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 30C200 90 300 0 500 45s300 35 700-15v70H0z" fill="url(#wave)"/>
+  <text x="600" y="77" fill="#fff" font-family="Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle">KEIKAKU DORI // JUST AS PLANNED</text>
+</svg>
